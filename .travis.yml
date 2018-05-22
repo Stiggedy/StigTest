@@ -5,7 +5,7 @@ sudo: false
 cache: packages
 deploy:
   provider: releases
-  api_key: "c368d199c846901095a562fbdb5814a641cadee1"
+  api_key: c368d199c846901095a562fbdb5814a641cadee1
   file: "StigTest_1.0.3.0000.tar.gz"
   skip_cleanup: true
   on:
